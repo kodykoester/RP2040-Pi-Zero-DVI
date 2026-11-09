@@ -1,5 +1,5 @@
 # RP2040-Pi-Zero-DVI-Output
-Scaffolding to run DVI output on RP2040 Pi Zero from Waveshare
+Scaffolding to run DVI output on a Waveshare RP2040 Pi Zero
 
 #### vi,vim,nano into Documents\Arduino\libraries\   
 PicoDVI_-_Adafruit_Fork\software\include\common_dvi_pin_configs.h
